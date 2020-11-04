@@ -1,0 +1,140 @@
+body{
+    background-image: url("img/home\ \(2\).jpg");
+    width :"1280";
+    height :"3000";
+    color :#FFFFFF;
+}
+.about{
+    background-image:url("img/resto1.jpg");
+}
+.menu{
+    background-image:url("img/meja.jpg");
+}
+.kontak{
+    background-image:url("img/CHEF.jpg");
+}
+nav table{
+    margin-left: auto;
+    margin-right:0;
+    width:"1280";
+    height:"3000";
+    padding:20pt;
+    
+}
+nav a{
+    color: #FFFFFF;
+    font-family:Tahoma;
+    font-weight:bold;
+    font-size:20pt;
+    text-decoration:none;
+    padding:10pt;
+}
+.text{
+    font-size:30pt;
+    font-family:'Times New Roman';
+}
+.text2{
+    font-size:20pt;
+    font-family:'Times New Roman';
+}
+.text3{
+    font-size:15pt;
+    font-family:'Times New Roman';
+}
+.jarak{
+    height:150pt;
+}
+.lanjut{
+    background-color: #FFFFFF;
+    padding:10px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.lanjut a{
+    text-decoration: none;
+    font-size:15pt;
+    color: black;
+}
+.lanjut2{
+    background-color: #FFFFFF;
+    padding:10px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.lanjut2 a{
+    text-decoration: none;
+    font-size:15pt;
+    color: black;
+}
+.jarak2{
+    height:50pt;
+}
+.Copyright{
+    font-size:15pt;
+    margin-left:auto;
+    margin-right:auto;
+}
+.Copyright2{
+    color: black;
+    font-size:15pt;
+    margin-left:auto;
+    margin-right:auto;
+.jarak3{
+    height:50pt;
+}
+.about1{
+    font-size:40pt;
+    font-family:Tahoma;
+}
+.abouttext{
+    background-color:rgba( 0, 0,0,0.5);
+    font-size:20pt;
+    font-family:'Times New Roman';
+    padding:20pt;
+    margin-left: auto;
+    margin-right: auto;
+}
+.menu1{
+    font-size:40pt;
+    margin-left:auto;
+    margin-right:auto;
+}
+.textmenu{
+    padding:15pt;
+    font-size:15pt;
+    margin-left: auto;
+    margin-right: auto;
+}
+.textmenu2{
+    padding:15pt;
+    font-size:15pt;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main2{
+    background-color:rgba( 0, 0,0,0.2);
+}
+.kotak td{
+    margin-left: auto;
+    margin-right:auto;
+    width:"1280";
+    height:"3000";
+    padding:20pt;
+    font-size: 15pt;
+}
+.kotak a{
+    color: #FFFFFF;
+    font-family:Tahoma;
+    font-size:12pt;
+}
+.kontak1{
+    font-size:40pt;
+    margin-left:auto;
+    margin-right:auto;
+}
+.kontak2{
+    padding:100pt;
+    margin-left: auto;
+    margin-right: auto;
+}
